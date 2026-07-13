@@ -65,7 +65,7 @@ Contoso Manufacturing is onboarding new employees across multiple departments. A
 
 ## Screenshots
 
-*Screenshots will be added 
+*Screenshots attached
 
 ---
 
