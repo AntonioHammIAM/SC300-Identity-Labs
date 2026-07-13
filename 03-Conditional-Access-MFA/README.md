@@ -14,7 +14,11 @@ Configure Multi-Factor Authentication (MFA) and strengthen authentication securi
 
 ## Screenshots
 
-Screenshots will be added after completing the lab.
+- Authentication Methods Policies
+- Microsoft Authenticator Settings
+- Conditional Access Policy
+- Conditional Access Policy Overview
+- Sign-in Logs (Conditional Access Evaluation)
 
 ## Lessons Learned
 
