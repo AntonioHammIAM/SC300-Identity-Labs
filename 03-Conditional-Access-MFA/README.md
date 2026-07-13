@@ -22,4 +22,8 @@ Configure Multi-Factor Authentication (MFA) and strengthen authentication securi
 
 ## Lessons Learned
 
-To be completed after finishing the lab.
+- Authentication Methods Policies
+- Microsoft Authenticator Settings
+- Conditional Access Policy
+- Conditional Access Policy Overview
+- Sign-in Logs (Conditional Access Evaluation)
