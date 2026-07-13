@@ -35,4 +35,13 @@ Configure Microsoft Entra Identity Governance by creating an Entitlement Managem
 
 ## Outcome
 
-Implemented Microsoft Entra Identity Governance using Entitlement Management and Access Packages to automate secure access requests.
+Implemented Microsoft Entra Identity Governance using Entitlement Management and Access Packages to automate secure access requests. 
+Successfully configured Microsoft Entra Identity Governance by creating an Entitlement Management Catalog and an Access Package. Added security group resources, configured request policies, and validated the Access Package deployment.
+## Screenshots
+
+- IT Resources Catalog Creation
+- HR-Team Added to Catalog
+- Access Package Creation
+- Resource Role Assignment
+- Request Policy Configuration
+- Access Package Overview
