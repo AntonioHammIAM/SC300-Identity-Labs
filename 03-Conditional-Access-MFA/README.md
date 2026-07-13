@@ -20,6 +20,9 @@ Configure Multi-Factor Authentication (MFA) and strengthen authentication securi
 - Conditional Access Policy Overview
 - Sign-in Logs (Conditional Access Evaluation)
 
+## Outcome
+
+Successfully configured Microsoft Entra ID Conditional Access to require Multi-Factor Authentication in Report-only mode. Verified policy behavior through Sign-in Logs and documented the implementation using enterprise IAM best practices.
 ## Lessons Learned
 
 - Authentication Methods Policies
